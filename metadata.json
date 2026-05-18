@@ -1,0 +1,6 @@
+{
+  "name": "EMAD Pathways",
+  "description": "Plataforma d'orientació acadèmica per a futurs estudiants de disseny a Catalunya, amb recomanacions personalitzades i assistent d'IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
